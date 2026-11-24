@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Lab-Viva"
+abstract: "Concept-graph-grounded adaptive viva with 2PL IRT calibration and CAT selection."
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: "TRV"
+    given-names: "Anandharajan"
+    email: "trvanandharajan@gmail.com"
+    affiliation: "Department of ECE, St. Joseph College of Engineering, Sriperumbudur, Chennai 602117, India"
+repository-code: "https://github.com/Anandharajan/lab-viva"
