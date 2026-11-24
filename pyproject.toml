@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "lab-viva"
-version = "0.1.0"
+version = "0.1.1"
 description = "Concept-graph-grounded adaptive viva with 2PL IRT calibration and CAT selection."
 readme = "README.md"
 license = { text = "MIT" }
